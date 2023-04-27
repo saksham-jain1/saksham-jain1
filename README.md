@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a B.Tech final year student.<br>I'm looking for a software developer role. <br>I'm currently learning React Native.<br>Ask me about MERN stack.
+Software Development Intern @Principal Global Services.<br>Exploring corporate world.<br>Seeker of Technology.<br>Ask me about MERN stack.
 
 
 ## 🌐 Socials:
